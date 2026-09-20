@@ -1,0 +1,9 @@
+{
+  "name": "wms-inspection",
+  "version": "1.0.0",
+  "description": "Container & Cargo Inspection App for WMS",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

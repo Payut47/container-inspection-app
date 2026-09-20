@@ -1,0 +1,21 @@
+{
+  "name": "การตรวจสอบตู้ขนส่งสินค้าและสภาพสินค้า",
+  "short_name": "ตรวจตู้สินค้า",
+  "description": "แอปพลิเคชันตรวจรับตู้ขนส่งสินค้าและสภาพสินค้า พร้อมถ่ายภาพและลายเซ็นต์ดิจิทัล",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
